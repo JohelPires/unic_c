@@ -64,4 +64,7 @@ enum outcome rps(enum tool p1, enum tool p2) {
   return DRAW;
 }
 
-int main() { printf("%s", rps(ROCK, PAPER)); }
+int main() {
+  // printf("%s", rps(ROCK, PAPER));
+  printf("teste");
+}
